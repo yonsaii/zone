@@ -1,0 +1,30 @@
+@font-face{
+    font-family: S4;
+    src: url(../fonts/DMSans-Regular.ttf);
+    font-weight: 400;
+}
+@font-face{
+    font-family: S5;
+    src: url(../fonts/DMSans-Medium.ttf);
+    font-weight: 500;
+}
+@font-face{
+    font-family: S7;
+    src: url(../fonts/DMSans-Bold.ttf);
+    font-weight: 700;
+}
+@font-face{
+    font-family: R5;
+    src: url(../fonts/Rubik-Medium.ttf);
+    font-weight: 500;
+}
+@font-face{
+    font-family: R4;
+    src: url(../fonts/Rubik-Regular.ttf);
+    font-weight: 400;
+}
+@font-face{
+    font-family: Ro4;
+    src: url(../fonts/Roboto-Regular.ttf);
+    font-weight: 400;
+}
